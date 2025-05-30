@@ -16,7 +16,7 @@
     <!-- Keep package type as 'Template' to show the package as a template package on nuget.org and
     make your template available in dotnet new search.-->
     <PackageType>Template</PackageType>
-    <TargetFramework>netstandard2.1</TargetFramework>
+    <TargetFramework>net35</TargetFramework>
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <ContentTargetFolders>content</ContentTargetFolders>
