@@ -23,7 +23,7 @@ dotnet new install dev.mamallama.ostra.bepin
 - Open a Terminal/Powershell/Bash window inside this folder and use the following command to install it: `dotnet new install .`
   - Note: If you are updating the template from an older version use `dotnet new install . --force` instead
 
-Great! The template is now installed locally as OSBepinPlugin
+Great! The template is now installed locally as OstraBepinPlugin
 
 ## Using
 
