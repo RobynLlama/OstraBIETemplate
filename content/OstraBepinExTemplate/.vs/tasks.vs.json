@@ -2,7 +2,7 @@
   "version": "0.2.1",
   "tasks": [
     {
-      "taskName": "Dry-run package test",
+      "taskName": "Build: Deploy to plugins",
       "type": "shell",
       "command": "dotnet build -p:DeployToProd=true"
     }
